@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/KarimTariqAbdel-Azim/Desktop/extra code/DS/stanford/karatsuba_multiplication/main.cpp
+iostream
+-
+math.h
+-
+

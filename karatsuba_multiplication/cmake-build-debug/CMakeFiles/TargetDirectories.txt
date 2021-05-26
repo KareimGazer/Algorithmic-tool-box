@@ -1,0 +1,3 @@
+C:/Users/KarimTariqAbdel-Azim/Desktop/extra code/DS/stanford/karatsuba_multiplication/cmake-build-debug/CMakeFiles/karatsuba_multiplication.dir
+C:/Users/KarimTariqAbdel-Azim/Desktop/extra code/DS/stanford/karatsuba_multiplication/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/KarimTariqAbdel-Azim/Desktop/extra code/DS/stanford/karatsuba_multiplication/cmake-build-debug/CMakeFiles/rebuild_cache.dir
